@@ -16,3 +16,9 @@ ab -n 1000 -c 10 http://yourwebsite.com/
 sudo tail -f /var/log/squid/access.log
 Results
 The results of the benchmark test are stored in the benchmark_results.txt file,which includes details about the number of requests,response times,and other relevant metrics.
+
+## Demo
+
+You can watch the demo of the Squid Cache benchmarking project here:
+
+[View the demo](https://asciinema.org/a/zUVbNRU3gkZPpHqowcNbiRCMy)
